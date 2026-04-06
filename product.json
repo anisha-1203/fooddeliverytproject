@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Double Beef Burger",  
+        "price": "$200",
+        "image": "images/buurgirr.webp"  
+    }
+,
+    {
+        "id": 2,
+        "name": "Veggie Pizza",  
+        "price": "$10.99",
+        "image": "images/pizza.webp"  
+    }
+,
+    {
+        "id": 3,
+        "name": "Sub Sandwich",  
+        "price": "$6.99",
+        "image": "images/sandwichh.webp"
+    }
+   
+,
+    {
+        "id": 4,
+        "name": "Chicken Roll",  
+        "price": "$7.50",
+        "image": "images/rollnonveg.jpg"  
+    }
+    ,
+     {
+        "id": 5,
+        "name": "Fried Chicken",  
+        "price": "$13.45",
+        "image": "images/nonveg.avif"  
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Red Sauce Pasta",  
+        "price": "$16.45",
+        "image": "images/pasttaa.avif"
+    }
+   
+]
